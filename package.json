@@ -1,0 +1,1 @@
+{"bin":{"tg-relay":"bin/tg-relay.js"},"description":"Single-file webhook-to-Telegram relay: HMAC-signed webhooks in, Telegram messages out","engines":{"node":">=18"},"files":["bin"],"license":"MIT","name":"tg-relay","scripts":{"test":"node --test"},"version":"1.0.0"}
